@@ -124,7 +124,7 @@ static void *treat(void *arg)
     return (NULL);
 };
 
-voi joc(void *arg)
+void joc(void *arg)
 {
     int nr, i = 0;
     struct thData tdL; // structura pt thread
